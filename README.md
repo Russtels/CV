@@ -1,4 +1,4 @@
-# 📄 Mi Currículum Vitae Interactivo | Tarjeta de Presentación Digital
+# 📄 Mi Currículum Vitae Interactivo | Tarjeta de Presentación Digital | Cv
 
 Este repositorio contiene el código fuente de mi currículum vitae personal, transformado de un documento estático a una página web dinámica y accesible.
 
